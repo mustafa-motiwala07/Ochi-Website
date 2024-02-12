@@ -21,9 +21,15 @@ function Footer() {
         Presentations
       </h1>
       <div className='details font-["Neue_Montreal"] mt-10'>
-          <a className='block text-xl font-light' href="#">Facebook</a>
-          <a className='block text-xl font-light' href="#">Instagram</a>
-          <a className='block text-xl font-light' href="#">Twitter</a>
+          <a className='block text-xl font-light underline' href="#">Facebook</a>
+          <a className='block text-xl font-light underline' href="#">Instagram</a>
+          <a className='block text-xl font-light underline' href="#">Twitter</a>
+          <div className='details font-["Neue_Montreal"] mt-24'>
+            <a className='block text-xl font-light underline' href="#">202-1965 W 4th Ave</a>
+            <a className='block text-xl font-light underline' href="#">Vancouver, Canada</a>
+            <a className='block text-xl font-light mt-5 underline' href="#">30 Chukarina St</a>
+            <a className='block text-xl font-light underline' href="#">Lviv, Ukraine</a>
+          </div>
         </div>
       </div>
     </div>
