@@ -8,8 +8,8 @@ function LandingPage() {
             {["We Create", "Eye-Opening", "Presentations"].map((item, index) => {
                 return <div className='masker'>
                     <div className='w-fit flex items-end'>
-                        {index === 1 && (<div className='mr-3 w-[8vw] rounded-md h-[7.5vw] top-[2vw] relative bg-green-500'></div>)}
-                        <h1 className='pt-[2vw] -mb-[1vw] uppercase text-[9vw] leading-[.75] font-["Neue Montreal"] font-medium'>
+                        {index === 1 && (<div className='mr-3 w-[8vw] rounded-md h-[7.5vw] relative bg-green-500'></div>)}
+                        <h1 className='pt-[2vw] -mb-[1vw] uppercase text-[9vw] leading-[.75] font-["Founders_Grotesk_X"] font-medium'>
                         {item}
                         </h1>
                     </div>
