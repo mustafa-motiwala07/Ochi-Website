@@ -16,7 +16,7 @@ function Cards() {
             </div>
             <div className='card relative flex items-center justify-center rounded-xl w-1/2 h-full bg-[#192826]'>
                 <img className='w-32' src='https://ochi.design/wp-content/uploads/2022/04/logo003.png'></img>
-                <button className='absolute px-5 py-1 rounded-full border-2 border-[#fff] text-[#fff] left-10 bottom-10'>BUSINESS BOOTCAMP ALUMINI</button></div>
+                <button className='absolute px-5 py-1 rounded-full border-2 border-[#fff] text-[#fff] left-10 bottom-10'>BUSINESS BOOTCAMP</button></div>
         </div>
     </div>
   )
